@@ -1,0 +1,14 @@
+.chat-input{
+  width: auto;
+  margin: 10px;
+  height: 30px;
+  padding: 10px;
+  border: 1px solid;
+}
+
+.button{
+  height: 30px;
+  width: auto;
+  padding: 5px;
+  margin: 10px;
+}
